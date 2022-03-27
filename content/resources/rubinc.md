@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 362fc62b-f7cd-293f-7b2e-2c455ef725b0
 resourcetype: Document
 title: Writing Against MIT Culture
 uid: 7d7b82b8-4896-2171-c45d-3b5751d7b412

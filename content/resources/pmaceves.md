@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 362fc62b-f7cd-293f-7b2e-2c455ef725b0
 resourcetype: Document
 title: 'Preserving and Forgetting: How the Indigenous Mexican Minorities Translate
   to United States'' Minority Politics, Discourse, and Education of Language'

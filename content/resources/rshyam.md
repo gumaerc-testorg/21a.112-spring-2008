@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 362fc62b-f7cd-293f-7b2e-2c455ef725b0
 resourcetype: Document
 title: 'Understanding Bodies: Haitian vodou as a lens for understanding conceptions
   and healing practices of the body'

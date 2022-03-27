@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 362fc62b-f7cd-293f-7b2e-2c455ef725b0
 resourcetype: Document
 title: 'Deciding Who May Choose: The construction of Personhood During Ethical Decisions
   in a Biomedical Context'

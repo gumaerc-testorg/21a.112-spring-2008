@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on course meeting times, requirements, grading, required books, and the schedule
+  of lecture topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -63,7 +66,7 @@ Final paper
 Required Books
 --------------
 
-Please see the [readings]({{< baseurl >}}/pages/readings) page for a schedule and list of readings. Look for used or new copies online or in local bookstores.
+Please see the {{% resource_link 528341df-3131-4c61-002f-69fa316ebff6 "readings" %}} page for a schedule and list of readings. Look for used or new copies online or in local bookstores.
 
 Calendar
 --------

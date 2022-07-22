@@ -6,6 +6,7 @@ file: /courses/21a-112-seminar-in-ethnography-and-fieldwork-spring-2008/0e951646
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Deciding Who May Choose: The construction of Personhood During Ethical D
 uid: 0e951646-6b46-cb1e-973d-f0e5c87e4fb2
 ---
 Example of student work: "Deciding Who May Choose: The Construction of Personhood During Ethical Decisions in a Biomedical Context" by Laura Martini.
-

@@ -6,6 +6,7 @@ file: /courses/21a-112-seminar-in-ethnography-and-fieldwork-spring-2008/4628abc7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Understanding Bodies: Haitian vodou as a lens for understanding concepti
 uid: 4628abc7-f603-ff63-6654-b2d04b0a9070
 ---
 Example of student work: "Understanding Bodies: Haitian vodou as a lens for understanding conceptions and healing practices of the body" by Ragini Shyam.
-

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Example of student work: "Writing against MIT Culture" by Caroline Rubin.'
 file: /courses/21a-112-seminar-in-ethnography-and-fieldwork-spring-2008/7d7b82b848962171c45d3b5751d7b412_rubinc.pdf
+file_size: 620719
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: "Deciding Who May Choose: The Construction
   of Personhood During Ethical Decisions in a Biomedical Context" by Laura Martini.'
-file: /ol-ocw-studio-app/courses/21a-112-seminar-in-ethnography-and-fieldwork-spring-2008/0e9516466b46cb1e973df0e5c87e4fb2_martini.pdf
+file: /courses/21a-112-seminar-in-ethnography-and-fieldwork-spring-2008/0e9516466b46cb1e973df0e5c87e4fb2_martini.pdf
 file_size: 132194
 file_type: application/pdf
 learning_resource_types:

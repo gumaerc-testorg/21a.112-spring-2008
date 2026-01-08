@@ -72,7 +72,7 @@ Ethics and engagement
 {{< tdopen >}}
 
 
-{{% resource_link "fdb613a1-f0fa-4196-b9e4-445b5063874a" "Code of Ethics of the American Anthropological Association" %}}
+[Code of Ethics of the American Anthropological Association](http://www.aaanet.org/issues/policy-advocacy/Code-of-Ethics.cfm)
 
 Jackson, Jean. "On Trying to Become an Amazon." In _Self, Sex and Gender in Cross-Cultural Fieldwork_. Edited by Tony L. Whitehead and Mary Ellen Conway. Urbana, IL: University of Illinois Press, 1986, pp. 263-274. ISBN: 9780252013249.
 
@@ -96,7 +96,7 @@ Anthropological controversies: military uses of anthropology
 {{< tdopen >}}
 
 
-Price, David. "{{% resource_link "40053c18-6179-472c-b96b-ba2be960bc1b" "Anthropologists as Spies" %}}." _The Nation_, November 2, 2000.
+Price, David. "[Anthropologists as Spies](http://www.thenation.com/article/anthropologists-spies/)." _The Nation_, November 2, 2000.
 
 Gusterson, Hugh. "Anthropology and Militarism." _Annual Review of Anthropology_ 36 (2007): 155-175.
 
